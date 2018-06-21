@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-direction: column;
+  margin:auto;
+}
+input {
+  width:100px;
+}
+form {
+  display: flex;
+  justify-content: center;
+
+}
